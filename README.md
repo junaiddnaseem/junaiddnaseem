@@ -1,6 +1,6 @@
 👋 Hi, I’m Junaid Naseem  
 
-🚀 Advanced Elementor Specialist | Full Site Editing & Gutenberg | WooCommerce Customization | Performance & Security | SEO**  
+Advanced Elementor Specialist | Full Site Editing & Gutenberg | WooCommerce Customization | Performance & Security | SEO 
 
 I specialize in building and optimizing WordPress websites using Elementor, Gutenberg, and Full Site Editing (FSE). My expertise includes WooCommerce customization, website performance enhancements, security hardening, and SEO best practices.  
 
