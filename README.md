@@ -24,7 +24,7 @@ I specialize in building and optimizing WordPress websites using Elementor, Gute
 - Website speed, security, and SEO improvements.  
 
 📫 How to reach me...  
-- 📩 Email: jwebw3@gmail.com
+- 📩 Email:    jwebw3@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/junaiddnaseem
 - 🌐 Portfolio: https://jwebw3.42web.io
 
