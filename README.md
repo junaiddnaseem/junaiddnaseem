@@ -10,7 +10,9 @@ I specialize in building and optimizing WordPress websites using Elementor, Gute
 - WooCommerce optimization & custom functionality.  
 - WordPress security & performance tuning.
 - SEO strategies for better rankings.
-- Git, version control, and CI/CD for seamless development.   
+- Git, version control, and CI/CD for seamless development.
+- WooCommerce store optimizations.  
+- Website speed, security, and SEO improvements.    
 
 🌱 I’m currently exploring...  
 - AI-powered automation for WordPress.  
@@ -19,9 +21,7 @@ I specialize in building and optimizing WordPress websites using Elementor, Gute
 - Headless WordPress with React & REST API.   
 
 💞️ I’m looking to collaborate on...  
-- Custom WordPress themes & plugins.  
-- WooCommerce store optimizations.  
-- Website speed, security, and SEO improvements.  
+- Custom WordPress themes & plugins.    
 
 📫 How to reach me...  
 - 📩 Email:    jwebw3@gmail.com
