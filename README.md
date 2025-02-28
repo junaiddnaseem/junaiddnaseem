@@ -1,5 +1,3 @@
-![Junaid Naseem - Advanced Elementor Specialist](https://via.placeholder.com/1200x400.png?text=Junaid+Naseem+-+Advanced+Elementor+Specialist)
-
 👋 Hi, I’m Junaid Naseem  
 
 Advanced Elementor Specialist | Full Site Editing & Gutenberg | WooCommerce Customization | Performance & Security | SEO 
