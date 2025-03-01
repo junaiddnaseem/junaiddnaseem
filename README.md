@@ -6,7 +6,7 @@
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+CMS+Web-Developer...;I'm+a+Website+Optimizer!"></a>
 </p>
-   <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
+   <a href="[https://www.linkedin.com/in/aastha-jha-805001106/](https://www.linkedin.com/in/junaiddnaseem/)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
   </a>   
    <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
