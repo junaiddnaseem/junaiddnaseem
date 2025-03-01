@@ -61,7 +61,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&amp;repo=MDX-Food-Safety-Hackathon&amp;theme=onedark">
 </a>  
-<a href="https://github.com/aastha12/Loan_Prediction">
+<a href="AI Solutions Technology">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&amp;repo=Loan_Prediction&amp;theme=onedark">
 </a> 
