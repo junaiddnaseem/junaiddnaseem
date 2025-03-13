@@ -52,7 +52,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&amp;custom_title=Aastha's Contribution Graph&amp;theme=react-dark"></a>
+	<a href="https://github.com/junaiddnaseem/shopify-responsive-banners" class="dd">Shopify</a>
   <br>
 </details>
 <br>
