@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/junaiddnaseem/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
   </a>   
-  <a href="[https://stackoverflow.com/users/11911694/aastha-jha](https://stackoverflow.com/)" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white">
-  </a>
 </div>
   
 <ul>
