@@ -57,14 +57,7 @@
 </details>
 <br>
 <h2 id="popular-projects">Popular Projects</h2>
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github.com/junaiddnaseem/shopify-responsive-banners">
-</a>  
-<a href="AI Solutions Technology">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=aastha12&amp;repo=Loan_Prediction&amp;theme=onedark](https://github.com/junaiddnaseem/shopify-responsive-banners)">
-</a> 
+
 <hr>
 
 
