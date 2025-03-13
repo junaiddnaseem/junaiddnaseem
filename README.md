@@ -51,7 +51,7 @@
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-[![Shopify](https://via.placeholder.com/150x50/000000/FFFFFF?text=Shopify)](https://github.com/junaiddnaseem/shopify-responsive-banners)
+#### shopify
 
 
   <br>
