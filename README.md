@@ -52,7 +52,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br>
-	<a href="https://github.com/junaiddnaseem/shopify-responsive-banners" class="dd">Shopify</a>
+	<a href="https://github.com/junaiddnaseem/shopify-responsive-banners" class="dd" color="white">Shopify</a>
   <br>
 </details>
 <br>
