@@ -51,7 +51,8 @@
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-#### shopify
+- Detection Lab
+- SOC Automation Project
 
 
   <br>
