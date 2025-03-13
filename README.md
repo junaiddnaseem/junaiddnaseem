@@ -59,7 +59,7 @@
 <h2 id="popular-projects">Popular Projects</h2>
 <a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&amp;repo=MDX-Food-Safety-Hackathon&amp;theme=onedark">
+  <img align="center" src="/">
 </a>  
 <a href="AI Solutions Technology">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
