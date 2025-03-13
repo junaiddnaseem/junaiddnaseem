@@ -63,7 +63,7 @@
 </a>  
 <a href="AI Solutions Technology">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&amp;repo=Loan_Prediction&amp;theme=onedark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aastha12&amp;repo=Loan_Prediction&amp;theme=onedark">
 </a> 
 <hr>
 
