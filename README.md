@@ -51,8 +51,6 @@
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-- Detection Lab
-- SOC Automation Project
 
 
   <br>
@@ -60,7 +58,8 @@
 <br>
 <h2 id="popular-projects">Popular Projects</h2>
 
-
+- Detection Lab
+- SOC Automation Project
 
 <hr>
 
