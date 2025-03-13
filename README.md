@@ -42,7 +42,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Junaid Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px"></a>
 <br>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="aastha12" height="192px">
@@ -57,6 +57,16 @@
 </details>
 <br>
 <h2 id="popular-projects">Popular Projects</h2>
+
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Junaid Naseem)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaid Naseem&show_icons=true)  
+
+
 
 <hr>
 
