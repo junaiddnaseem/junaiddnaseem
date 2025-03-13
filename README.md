@@ -59,14 +59,6 @@
 <h2 id="popular-projects">Popular Projects</h2>
 
 
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Junaid Naseem)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaid Naseem&show_icons=true)  
-
-
 
 <hr>
 
